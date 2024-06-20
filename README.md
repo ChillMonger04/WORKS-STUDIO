@@ -19,7 +19,6 @@ To achieve this ambitious goal, I utilized HTML for the foundational structure a
 
 - Locomotive Scroll: Ensured smooth scrolling and precisely controlled the scroll speed of elements, adding dynamic movement that enhances user engagement.
 - GSAP: Drove the major animations, significantly boosting the visual appeal and interactivity.
-- ScrollTrigger: Enabled the creation of custom scroll-based animations, guaranteeing a seamless and fluid user experience.
 
 These technologies were meticulously integrated to craft a dynamic and interactive user interface, closely mirroring the elegance and functionality of the original site.
 
